@@ -1,5 +1,4 @@
 # TUT Facebook Được Lưu Hàng Nội Bộ
-![](https://3.bp.blogspot.com/-ASwf6KwwdAM/Wdo7LXx0hkI/AAAAAAAAD8o/vSNWFYpVaogD65JMfwCmMOtXJOeby5SKgCLcBGAs/s0/j2team-community-birthday.png)
 
 [![Developed - by JobyS]](https://fb.me/NQS.King)
 
