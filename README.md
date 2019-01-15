@@ -38,17 +38,25 @@
 | Tut Unlock All Dạng FAQ Bằng Link Case 178 | [Tut Unlock All Dạng FAQ Bằng Link Case 178][11] |
 | Unlock 277 Spam Nát Case | [Unlock 277 Spam Nát Case][12] |
 | Tut Tạo From Check Pass 3 Miền | [Tut Tạo From Check Pass 3 Miền][13] |
+| Tut Unlock 583 Về Trong 2 Ngày | [Tut Unlock 583 Về Trong 2 Ngày ][14] |
+| Tut Unlock 723 Spam Và Chưa Spam | [Tut Unlock 723 Spam Và Chưa Spam][15] |
 
-   [1]: <https://github.com/J2TeamNNL/J2Team-Community/blob/master/add_friend.js>
-   [2]: <https://github.com/J2TeamNNL/J2Team-Community/blob/master/add_friend_by_id.php>
-   [3]: <https://github.com/J2TeamNNL/J2Team-Community/blob/master/add_friend_of_friend_of_id.php>
-   [4]: <https://github.com/J2TeamNNL/J2Team-Community/blob/master/auto_reactions_newfeed.php>
-   [5]: <https://github.com/J2TeamNNL/J2Team-Community/blob/master/change_all_privacy_to_myself.php>
-   [6]: <https://github.com/J2TeamNNL/J2Team-Community/blob/master/change_privacy_movies.js>
-   [7]: <https://github.com/J2TeamNNL/J2Team-Community/blob/master/count_reaction_post.html>
-   [8]: <https://github.com/J2TeamNNL/J2Team-Community/blob/master/count_reaction_post.html>
-   [9]: <https://github.com/J2TeamNNL/J2Team-Community/blob/master/delete_all_member.php>
-   [10]: <https://github.com/J2TeamNNL/J2Team-Community/blob/master/delete_all_post_FB.php>
-   [11]: <https://github.com/J2TeamNNL/J2Team-Community/blob/master/delete_member_by_ID.php>
-   [12]: <https://github.com/J2TeamNNL/J2Team-Community/blob/master/delete_member_dont_react.php>
-   [13]: <https://github.com/J2TeamNNL/J2Team-Community/blob/master/delete_notes.php>
+   [1]: <https://github.com/jobys-997/JobyS-TuT/blob/master/tut-dame-808>
+   [2]: <https://github.com/jobys-997/JobyS-TuT/blob/master/tut-dame-anh>
+   [3]: <https://github.com/jobys-997/JobyS-TuT/blob/master/tut-cai-mail>
+   [4]: <https://github.com/jobys-997/JobyS-TuT/blob/master/tut-dame-apps-nguyen-thuy>
+   [5]: <https://github.com/jobys-997/JobyS-TuT/blob/master/tut-dame-178>
+   [6]: <https://github.com/jobys-997/JobyS-TuT/blob/master/tut-unlock-030>
+   [7]: <https://github.com/jobys-997/JobyS-TuT/blob/master/tut-unlock-030-80%25>
+   [8]: <https://github.com/jobys-997/JobyS-TuT/blob/master/tut-unlock-178>
+   [9]: <https://github.com/jobys-997/JobyS-TuT/blob/master/tut-unlock-277-nat-case>
+   [10]: <https://github.com/jobys-997/JobyS-TuT/blob/master/tut-unlock-not-info-email>
+   [11]: <https://github.com/jobys-997/JobyS-TuT/blob/master/unlock-all-dang-faq-bang-case-178>
+   [12]: <https://github.com/jobys-997/JobyS-TuT/blob/master/unlock-277-nat>
+   [13]: <https://github.com/jobys-997/JobyS-TuT/blob/master/tut-tao-from-checkpass>
+   [14]: <https://github.com/jobys-997/JobyS-TuT/blob/master/unlock-583-ve-trong-2-ngay>
+   [15]: <https://github.com/jobys-997/JobyS-TuT/blob/master/unlock-723-spam-va-chua-spam>
+   
+   **** Tác giả:
+   - Nhân Công Chúa ( Võ Hữu Nhân )
+
